@@ -11,6 +11,9 @@ jobs:
             - run: echo "Merging list..."
             - run: rm full_filtered.m3u
               continue-on-error: true
+            - run: rm full.m3u
+              continue-on-error: true
+            - run: python gen_full.py
             - run: python gen_filtered.py
             - name: Push
               run: |
