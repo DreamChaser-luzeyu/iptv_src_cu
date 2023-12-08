@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/北京卫视",BTV北京卫视高清
+http://61.148.223.18:8888/newlive/live/hls/19/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/安徽卫视",安徽卫视高清
+http://61.148.223.18:8888/newlive/live/hls/25/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/甘肃卫视",甘肃卫视
+http://61.148.223.18:8888/newlive/live/hls/36/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/广东卫视",广东卫视高清
+http://61.148.223.18:8888/newlive/live/hls/21/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/广西卫视",广西卫视
+http://61.148.223.18:8888/newlive/live/hls/26/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/贵州卫视",贵州卫视
+http://61.148.223.18:8888/newlive/live/hls/29/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖南卫视",湖南卫视高清
+http://61.148.223.18:8888/newlive/live/hls/23/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/青海卫视",青海卫视
+http://61.148.223.18:8888/newlive/live/hls/39/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/山东卫视",山东卫视高清
+http://61.148.223.18:8888/newlive/live/hls/30/live.m3u8
+#EXTINF:-1 ,山西卫视
+http://125.210.152.10:8060/live/SXWS.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/mzqA5YX.png",深圳卫视 (1080p)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新疆卫视",新疆卫视
+http://61.148.223.18:8888/newlive/live/hls/38/live.m3u8
+#EXTINF:-1 ,浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 ,浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
+#EXTINF:-1 ,浙江卫视 (1080p)
+https://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8

@@ -31,3 +31,5 @@ https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E6
 https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+%E5%8D%AB%E8%A7%86-%E4%B8%8A%E6%B5%B7%E8%81%94%E9%80%9A.m3u
 
 https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E6%B5%99%E6%B1%9F%E8%81%94%E9%80%9A.m3u
+
+https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u

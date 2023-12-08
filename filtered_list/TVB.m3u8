@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/3V6ads0.png",TVB Thai (1080p)
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+#EXTINF:-1 group-title="Culture;Education" tvg-logo="https://i.imgur.com/zUpWcUN.png",TVBE Joinville (720p)
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/4S1rkhm.png",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
