@@ -1,0 +1,16 @@
+https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/%E4%B8%AD%E5%9B%BD%E5%B9%BF%E7%94%B5cctv%E5%8D%AB%E8%A7%86.m3u
+
+https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%A4%96.m3u
+
+https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A.m3u
+
+https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/%E8%BD%AE%E6%92%AD_%E7%88%B1%E5%A5%87%E8%89%BACIBN%E5%8D%8E%E6%95%B0NewTV%E8%99%8E%E7%89%99%E6%88%98%E6%97%97.m3u
+
+https://iptv-org.github.io/iptv/languages/zho.m3u
+
+https://iptv-org.github.io/iptv/index.nsfw.m3u
+
+https://iptv-org.github.io/iptv/languages/cmn.m3u
+
+https://github.com/kimcrowing/IPTV/raw/master/3100%E4%B8%AA%E5%85%A8%E9%83%A8%E6%9C%89%E6%95%88.m3u8
+
