@@ -1,0 +1,22 @@
+name: Merge Channel List
+on: [push]
+jobs:
+    Merge-Channel:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out repository code
+              uses: actions/checkout@v4
+            - run: pwd
+            - run: ls -al
+            - run: echo "Merging list..."
+            - run: rm full_filtered.m3u
+              continue-on-error: true
+            - run: python gen_filtered.py
+            - name: Push
+              run: |
+                   git config user.name github-actions
+                   git config user.email github-actions@github.com
+                   git add .
+                   git commit -m "[Github Actions] Merge List"
+                   git push
+              continue-on-error: true     
