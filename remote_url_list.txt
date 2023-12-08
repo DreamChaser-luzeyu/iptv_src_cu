@@ -12,5 +12,22 @@ https://iptv-org.github.io/iptv/index.nsfw.m3u
 
 https://iptv-org.github.io/iptv/languages/cmn.m3u
 
+https://github.com/iptv-org/iptv/raw/master/streams/cn.m3u
+
 https://github.com/kimcrowing/IPTV/raw/master/3100%E4%B8%AA%E5%85%A8%E9%83%A8%E6%9C%89%E6%95%88.m3u8
 
+https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%BD%E5%86%85%E7%94%B5%E8%A7%86%E5%8F%B02023.m3u8
+
+https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+%E5%8D%AB%E8%A7%86-%E4%B8%8A%E6%B5%B7%E8%81%94%E9%80%9A%E6%BA%90.m3u
+
+https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9AIPTV%E7%BB%84%E6%92%AD2022.m3u
+
+https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%A4%A9%E6%B4%A5%E8%81%94%E9%80%9Artp%E7%BB%84%E6%92%AD.m3u
+
+https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%9B%9B%E5%B7%9D%E8%81%94%E9%80%9A.m3u
+
+https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E6%B9%96%E5%8D%97%E8%81%94%E9%80%9A.m3u
+
+https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+%E5%8D%AB%E8%A7%86-%E4%B8%8A%E6%B5%B7%E8%81%94%E9%80%9A.m3u
+
+https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E6%B5%99%E6%B1%9F%E8%81%94%E9%80%9A.m3u
