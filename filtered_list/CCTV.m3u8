@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/U8d4Is6.png",CCTV+ 1 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/qSg862A.png",CCTV+ 2 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3综艺 (1080p)
+http://183.196.25.171:808/hls/75/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 (1080p)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/3tivvMm.png",CCTV-9 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/CjOWx7L.png",CCTV-11戏曲 (1080p)
+http://183.196.25.171:808/hls/11/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/3yTuiOM.png",CCTV-12社会与法制 (1080p)
+http://183.196.25.171:808/hls/12/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/jSQURxS.png",CCTV-17农业农村 (1080p)
+http://183.196.25.171:808/hls/93/index.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV-4 (1080p)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV-4 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/YC5FRmq.png",Red CCTV (480p)
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1",CCTV-1高清
+http://61.148.223.18:8888/newlive/live/hls/2/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV2",CCTV-2
+http://61.148.223.18:8888/newlive/live/hls/3/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3",CCTV-3
+http://61.148.223.18:8888/newlive/live/hls/4/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4",CCTV-4
+http://61.148.223.18:8888/newlive/live/hls/5/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5",CCTV-5
+http://61.148.223.18:8888/newlive/live/hls/6/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV6",CCTV-6
+http://61.148.223.18:8888/newlive/live/hls/7/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV7",CCTV-7
+http://61.148.223.18:8888/newlive/live/hls/8/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV8",CCTV-8
+http://61.148.223.18:8888/newlive/live/hls/9/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV9",CCTV-9高清
+http://61.148.223.18:8888/newlive/live/hls/10/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTVnews",CCTV-NEWS
+http://61.148.223.18:8888/newlive/live/hls/17/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5",CCTV5＋
+http://61.148.223.18:8888/newlive/live/hls/18/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV10",CCTV-10
+http://61.148.223.18:8888/newlive/live/hls/11/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV12",CCTV-12
+http://61.148.223.18:8888/newlive/live/hls/13/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV13",CCTV-13
+http://61.148.223.18:8888/newlive/live/hls/14/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV14",CCTV-14
+http://61.148.223.18:8888/newlive/live/hls/15/live.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV15",CCTV-15
+http://61.148.223.18:8888/newlive/live/hls/16/live.m3u8
